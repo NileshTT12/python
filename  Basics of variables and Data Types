@@ -1,0 +1,5 @@
+my_list = [2,3.5,'python']
+my_list.insert(1,5)
+print(my_list)
+#print(dir(my_list))
+print(help(my_list))
