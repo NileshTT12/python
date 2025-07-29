@@ -1,4 +1,0 @@
-x=3
-y=5.7
-z="python is first hand"
-print(f"x value is {x} , and the y value is {y} ,z value is {z}")
